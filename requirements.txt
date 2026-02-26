@@ -1,0 +1,4 @@
+torch>=2.0       # CUDA build auto-detected on install
+numpy
+joblib
+scikit-learn     # only for scaler / encoder usage
